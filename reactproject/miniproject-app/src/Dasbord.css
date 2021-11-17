@@ -1,0 +1,11 @@
+.category{
+    background-color: #eb1e2f;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+  /* 
+   .category:hover{
+    border: 0.1px solid gray;
+  }  */

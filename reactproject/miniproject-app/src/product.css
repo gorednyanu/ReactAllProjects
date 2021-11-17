@@ -1,0 +1,29 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  
+  }
+  .row.top{
+    align-items: fle;
+  }
+
+  .card{
+    border: 0.1rem #0e0d0d solid;
+    background-color: white;
+    border-radius: 0.5rem;
+    margin: 1rem;
+  }
+  
+  .card-body {
+    padding: 0rem;
+    color: brown;
+    
+  }
+  .card-body > * {
+    margin-bottom: 0.5rem;
+  }
+  .price {
+    font-size: 2rem;
+  }

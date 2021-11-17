@@ -1,0 +1,50 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="project4.project4.urls.app4" />
+          <option value="project8.project8.urls.*" />
+          <option value="project11.project11.urls.app11" />
+          <option value="project10.project10.urls.app10" />
+          <option value="project10.project10.urls.app2" />
+          <option value="ORC.common.views.student" />
+          <option value="common.utlis" />
+          <option value="common.utils" />
+          <option value="common.views.showCommonPage" />
+          <option value="common.views.studentPage" />
+          <option value="common.views.studentRegiatration" />
+          <option value="common.views.openStudentOtp" />
+          <option value="common.views.*" />
+          <option value="demo1.Database" />
+          <option value="demo2.Database" />
+          <option value="project1.app1.views.app1" />
+          <option value="project1.project1.urls.app1" />
+          <option value="project1.project1.urls.views" />
+          <option value="project15.urls.*" />
+          <option value="app19.views.request" />
+          <option value="project20.settings.*" />
+          <option value="app.utiles.*" />
+          <option value="rest_framework.Serializer" />
+          <option value="app4.serializers.Serializer" />
+          <option value="app.serializers.validate_amount" />
+          <option value="app.views.rest_framework" />
+          <option value="app3.views.DnyaneshwarPermission" />
+          <option value="app3.permission" />
+          <option value="app3.views.sunnyperimission" />
+          <option value="datetime.datetime.timedelta" />
+          <option value="app.views.myPagnation" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
